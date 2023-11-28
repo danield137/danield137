@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Daniel Dubovski (@danield137)
+- 👋 Hi, I’m Daniel Dror (@danield137)
 - 👀 I’m interested in Databases, System Design and AI
 - 🌱 I’m currently finishing my CS Masters at the Open University of Israel
 - 📫 How to reach me via email at danield137@gmail.com
